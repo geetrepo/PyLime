@@ -310,7 +310,7 @@ def find_nth(haystack, needle, n):
 
 
 def about():
-    tkMessageBox.showinfo('Say Hello', 'Hello World')
+    tkMessageBox.showinfo('PyLime', 'Raster Ron (c) 2014 - 2015\rgithub.com/rasteron')
 
 
 def demo(
