@@ -30,7 +30,8 @@ import Tkinter as tk
 current_file = ''
 
 root = Tk()
-root.tk.call('wm', 'iconbitmap', root, '-default', 'icon.ico')
+img = PhotoImage(file='icon.gif') # app icon fix
+root.tk.call('wm', 'iconphoto', root._w, img)
 ed = ''
 
 
