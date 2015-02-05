@@ -21,3 +21,4 @@ http://www.fatcow.com/free-icons
 ### TODOS:
 
 - Fix Automatic Hi-lighting
+- Add Tabs
